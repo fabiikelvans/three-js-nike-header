@@ -51,4 +51,3 @@ Hero Icons
 </a>
 <a href="https://github.com/fabiikelvans?tab=followers"><img src="https://img.shields.io/github/followers/fabiikelvans?label=Followers&style=social" alt="GitHub Badge"></a>
 
-Credit [Vibrants](https://vibrants.com/)
