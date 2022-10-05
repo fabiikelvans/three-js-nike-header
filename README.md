@@ -5,7 +5,7 @@
 
 
 ### Live
-Check out the demo site [Nike Header](https://e-commerce-vibrants-redesign.vercel.app/)
+Check out the demo site [Nike Header](https://three-js-nike-header.vercel.app/)
 
 
 
